@@ -9,7 +9,7 @@ import { Provider } from "react-redux";
 document.body.style.fontFamily = "Roboto, sans-serif";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <Provider store={store}>
-    <BrowserRouter basename="/web-ieee-frontend">
+    <BrowserRouter basename="">
       <Routes>
         <Route path="/*" element={<App />} />
       </Routes>
