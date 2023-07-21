@@ -10,7 +10,7 @@ const DashFooter = () => {
           <div className="flex items-start gap-2">
             <div className="flex items-center gap-4">
               <img className="w-12" src={logo} alt="Logo page" />
-              <h1 className="text-3xl font-bold">Wasi</h1>
+              <h1 className="text-3xl font-bold">WASI</h1>
             </div>
           </div>
           <div className="flex flex-col gap-5">
@@ -108,7 +108,7 @@ const DashFooter = () => {
         >
           <Link to="/" className="flex select-none items-center gap-3">
             <img className="w-16" src={logo} alt="Logo page" />
-            <h1 className="text-4xl font-bold">Wasi</h1>
+            <h1 className="text-4xl font-bold">WASI</h1>
           </Link>
         </motion.div>
         <motion.div

@@ -23,12 +23,12 @@ const Conocenos = () => {
               Conoce más sobre nuestra academia YACHAYWASI
             </h2>
             <p className="text-xl text-colorTextSecundary">
-              Yachaywasi se ha consolidado como una de las mejores academias
+              YachayWASI se ha consolidado como una de las mejores academias
               preuniversitarias en la región de Huánuco. Desde su fundación en
               2019, ha sido reconocida por la excelencia de su enseñanza y
               cuenta con un equipo de docentes altamente respetados en la
               región. El desafío de la pandemia en 2020 no fue obstáculo para
-              Yachaywasi, ya que rápidamente se adaptaron y desarrollaron una
+              YachayWASI, ya que rápidamente se adaptaron y desarrollaron una
               plataforma de enseñanza virtual de primer nivel. Esta transición
               les permitió mantener su compromiso de brindar educación de
               calidad a sus estudiantes, demostrando su capacidad de innovación
@@ -61,7 +61,7 @@ const Conocenos = () => {
           <div className="flex flex-col items-start justify-center gap-5 text-left">
             <h2 className="text-4xl font-bold">Docentes fundadores</h2>
             <p className="text-justify text-xl text-colorTextSecundary">
-              Los miembros fundadores de Yachaywasi, quienes con una dedicación
+              Los miembros fundadores de YachayWASI, quienes con una dedicación
               incansable lograron edificar esta academia excepcional. Todos
               ellos son docentes apasionados, lo que les permitió conocer a los
               estudiantes a fondo y, gracias a esta cercanía, construyeron una
@@ -123,7 +123,7 @@ const Conocenos = () => {
                   Buscamos cultivar el pensamiento crítico, la creatividad y el
                   trabajo en equipo, alentando a nuestros alumnos a alcanzar su
                   máximo potencial y descubrir sus vocaciones y pasiones. En
-                  esencia, la misión de Yachaywasi es formar líderes con sólidos
+                  esencia, la misión de YachayWASI es formar líderes con sólidos
                   valores éticos, conocimientos académicos sobresalientes y
                   habilidades para afrontar los retos del futuro, contribuyendo
                   así al desarrollo social, cultural y económico de nuestra
@@ -175,7 +175,7 @@ const Conocenos = () => {
               >
                 <h2 className="text-4xl font-bold">Visión</h2>
                 <p className="text-justify text-xl text-colorTextSecundary">
-                  En Yachaywasi, nuestra visión es ser reconocidos como una
+                  En YachayWASI, nuestra visión es ser reconocidos como una
                   academia líder en la formación de estudiantes excepcionales,
                   preparados para postular y acceder a las mejores universidades
                   del Perú, incluyendo instituciones de prestigio como la
@@ -206,11 +206,11 @@ const Conocenos = () => {
                 <h2 className="text-4xl font-bold">Objetivos</h2>
                 <p className="text-justify text-xl text-colorTextSecundary">
                   <strong>1. Brindar educación de calidad</strong>: En
-                  Yachaywasi, nos esforzamos por ofrecer una educación de alta
+                  YachayWASI, nos esforzamos por ofrecer una educación de alta
                   calidad, centrada en el aprendizaje efectivo y la adquisición
                   de conocimientos sólidos en todas las materias. <br />
                   <strong>2. Motivar y empoderar a los estudiantes</strong>: En
-                  Yachaywasi, nos esforzamos por motivar y empoderar a nuestros
+                  YachayWASI, nos esforzamos por motivar y empoderar a nuestros
                   estudiantes, creando un ambiente de aprendizaje positivo y
                   apoyándolos en su crecimiento personal y académico.
                   <br /> <strong>3. Promover la excelencia académica</strong>:

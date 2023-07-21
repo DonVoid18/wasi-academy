@@ -79,7 +79,7 @@ function Home() {
               <p className="text-xl text-colorTextSecundary">
                 Si desean adentrarse en un viaje de aprendizaje emocionante y
                 significativo, los invitamos a que se unan a la familia
-                Yachaywasi. Juntos, construiremos un futuro en el que el
+                YachayWASI. Juntos, construiremos un futuro en el que el
                 conocimiento sea la llave que abra todas las puertas.
               </p>
             </div>
@@ -108,12 +108,12 @@ function Home() {
               ¿Qué es YACHAYWASI?
             </h2>
             <p className="text-justify text-xl text-colorTextSecundary">
-              Yachaywasi surgió en el año 2019, en plena pandemia, como un
+              YachayWASI surgió en el año 2019, en plena pandemia, como un
               proyecto educativo innovador. Inicialmente, se centraba en la
               enseñanza presencial; sin embargo, debido a las restricciones
               provocadas por el covid, se vio en la necesidad de suspender
               temporalmente sus actividades en el aula. Pero, lejos de
-              detenerse, Yachaywasi dio un salto hacia adelante, llevando su
+              detenerse, YachayWASI dio un salto hacia adelante, llevando su
               compromiso educativo a otro nivel al ser pioneros en ofrecer una
               enseñanza virtual de alta calidad.
             </p>
@@ -121,7 +121,7 @@ function Home() {
               Este ambicioso proyecto educativo fue fundado por un grupo de seis
               docentes altamente reconocidos en la ciudad de Huánuco. Su
               experiencia y pasión por la educación impulsaron la creación de
-              Yachaywasi, con el objetivo de brindar una formación integral y
+              YachayWASI, con el objetivo de brindar una formación integral y
               accesible para los estudiantes, incluso en tiempos difíciles.
             </p>
           </motion.div>
@@ -222,7 +222,7 @@ function Home() {
               ¿Cómo pertener a YACHAYWASI?
             </h3>
             <p className="text-xl text-colorTextSecundary">
-              Yachaywasi es una oportunidad única para todos los estudiantes que
+              YachayWASI es una oportunidad única para todos los estudiantes que
               deseen prepararse y alcanzar sus metas de ingresar a las
               universidades más prestigiosas del país. Si estás listo para dar
               el primer paso hacia tu futuro académico y profesional, sigue

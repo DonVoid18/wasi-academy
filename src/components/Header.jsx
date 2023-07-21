@@ -149,7 +149,7 @@ const DashHeader = () => {
 const logoHTML = (
   <Link to="/" className="flex select-none items-center gap-3">
     <img className="w-16" src={logo} alt="Logo page" />
-    <h1 className="text-4xl font-bold">Wasi</h1>
+    <h1 className="text-4xl font-bold">WASI</h1>
   </Link>
 );
 
