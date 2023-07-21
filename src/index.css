@@ -1,0 +1,33 @@
+@tailwind base;
+@layer base {
+  html {
+    @apply text-[12px];
+  }
+  @screen sm {
+    html {
+      @apply text-[16px];
+    }
+  }
+}
+@tailwind components;
+@layer components {
+  .btn {
+    @apply rounded-md py-3 px-4 text-main font-medium text-white duration-200 ease-out hover:opacity-70 focus:outline-none focus:ring-4 focus:ring-focusColor;
+  }
+  .link {
+    @apply rounded-md duration-200 ease-out hover:text-primary focus:outline-none focus:ring-4 focus:ring-focusColor;
+  }
+  .btn-toggle {
+    @apply rounded-md duration-200 ease-out hover:bg-[#f3f3f6] focus:outline-none focus:ring-4 focus:ring-[#0095ff80];
+  }
+  .ctn-tiket-hd {
+    @apply absolute left-10 flex min-w-max items-center justify-center gap-3 rounded-2xl bg-white py-2 px-3 text-main font-semibold shadow-3xl;
+  }
+  .link-footer {
+    @apply flex w-max items-start gap-2 rounded-md duration-200 ease-out hover:text-white focus:outline-none focus:ring-4 focus:ring-focusColor;
+  }
+  .input {
+    @apply w-full rounded-md bg-black/5 py-2.5 px-4 text-base tracking-wider duration-200 ease-out placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-focusColor;
+  }
+}
+@tailwind utilities;
